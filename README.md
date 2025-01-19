@@ -48,7 +48,7 @@ The project uses **Remix Icons** for various UI elements. You can find more icon
 ## 📬 **Contact Me**  
 📧 Email: **your-email@example.com** 
 🔗 GitHub: [sukh8661](https://github.com/sukh8661)  
-🔗 LinkedIn: [Your LinkedIn](#)
+🔗 LinkedIn: [Sukhpreet Singh](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
 
 ## 📜 **License**  
 🆓 This project is **open-source** and available under the **MIT License**.  
