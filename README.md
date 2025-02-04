@@ -46,7 +46,7 @@ This is my **personal portfolio website** showcasing my **projects, skills, and 
 The project uses **Remix Icons** for various UI elements. You can find more icons at: [Remix Icon Library](https://remixicon.com/)  
 
 ## 📬 **Contact Me**  
-📧 Email: **your-email@example.com** 
+📧 Email: **sukhpreet8661@gmail.com** 
 🔗 GitHub: [sukh8661](https://github.com/sukh8661)  
 🔗 LinkedIn: [Sukhpreet Singh](https://www.linkedin.com/in/sukhpreet-singh-543651315/)
 
